@@ -35,6 +35,7 @@ int main(int argc, char** argv) {
 			}
 		}
 		
+		
 		//将两个板拼接
 		int t = L[minindex1] + L[minindex2];
 		ans += t;
