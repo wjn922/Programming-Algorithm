@@ -3,6 +3,6 @@ This repository contains the C++ codes of book &lt;&lt;Challenge Programming Com
 
 * Platform: Windows10
 * IDE: Dev CPP 5.11
-* Please refer to the problem in the book
+* Please refer to the problems in the book
 
 *Keep updating...*
