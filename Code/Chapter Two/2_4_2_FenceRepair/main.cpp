@@ -11,7 +11,7 @@ using namespace std;
 */
 int N;
 int L[10000];
-priority_queue <int, vector<int>, greater<int> > Wood;
+priority_queue <int, vector<int>, greater<int> > Wood; //×îÐ¡¶Ñ
 int ans = 0;
 
 int main(int argc, char** argv) {
