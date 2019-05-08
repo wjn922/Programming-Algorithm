@@ -39,8 +39,8 @@ void shortestpath(int s)
 			}
 		}
 		
-		if(!update)	break;	//有负圈 
-		if(count == V)	
+		if(!update)	break;	 
+		if(count == V)	//有负圈
 		{
 			flag = 1; 
 		}
